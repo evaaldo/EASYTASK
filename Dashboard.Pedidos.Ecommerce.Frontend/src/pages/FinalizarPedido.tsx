@@ -34,7 +34,7 @@ export function FinalizarPedido() {
     }, []);
 
   return (
-    <div className="bg-[#E3E9F7] min-h-screen flex flex-col">
+    <div className="min-h-screen flex flex-col">
       <Header />
       <div className="flex flex-1 overflow-hidden">
         <Sidebar />

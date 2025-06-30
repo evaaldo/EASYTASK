@@ -52,30 +52,64 @@ export function Dashboard() {
     carregarDados();
   }, []);
 
+  function useIs2xl() {
+    const [is2xl, setIs2xl] = useState(false);
+
+    useEffect(() => {
+      const mediaQuery = window.matchMedia("(min-width: 1536px)");
+      setIs2xl(mediaQuery.matches);
+
+      const handler = (e: MediaQueryListEvent) => setIs2xl(e.matches);
+      mediaQuery.addEventListener("change", handler);
+
+      return () => mediaQuery.removeEventListener("change", handler);
+    }, []);
+
+    return is2xl;
+  }
+
+  const is2xl = useIs2xl();
+
   return (
-    <div className="bg-[#E3E9F7] h-[100vh]">
+    <div className="h-[100vh]">
       <Header />
       <Sidebar />
       <main>
-        <div className="flex justify-between py-10 px-40">
+        <div className="grid grid-cols-2 2xl:grid-cols-4 gap-6 py-10 px-40 2xl:px-40">
           <Card type="currency" label="Valor Total" value={valorTotal.toFixed(2)} />
           <Card type="currency" label="Média Cliente" value={valorMedio.toFixed(2)} />
           <Card type="amount" label="Total Pedidos" value={qtdTotal.toString()} />
           <Card type="amount" label="Média Pedidos" value={mediaCliente.toFixed(0)} />
         </div>
-        <div className="flex justify-between px-40 py-10 gap-10 max-h-[380px]">
-          <div>
-            <h1 className="text-white p-2 font-bold bg-[#5C5CDA] px-5 rounded-t-lg text-xl">
-              Relação de pedidos por produtos
-            </h1>
-            <div className="bg-white px-40 py-10 rounded-b-lg shadow-xl">
-              <Chart />
+        {is2xl ? (
+          <div className="flex justify-between px-40 py-10 gap-10 max-h-[380px]">
+            <div>
+              <h1 className="text-white p-2 font-bold bg-[#5C5CDA] px-5 rounded-t-lg text-xl">
+                Relação de pedidos por produtos
+              </h1>
+              <div className="bg-white px-20 py-10 rounded-b-lg shadow-xl">
+                <Chart width={700} />
+              </div>
+            </div>
+            <div>
+              <TabelaPedidos pedidos={pedidos} exibirAcao={false} alturaMaxima="max-h-[380px]" />
             </div>
           </div>
-          <div>
-            <TabelaPedidos pedidos={pedidos} exibirAcao={false} alturaMaxima="max-h-[380px]" />
+        ) : (
+          <div className="grid grid-cols-1 2xl:grid-cols-2 gap-10 py-10 mx-auto max-w-5xl">
+            <div>
+              <h1 className="text-white p-2 font-bold bg-[#5C5CDA] px-5 rounded-t-lg text-xl">
+                Relação de pedidos por produtos
+              </h1>
+              <div className="bg-white px-10 py-10 rounded-b-lg shadow-xl">
+                <Chart width={950} />
+              </div>
+            </div>
+            <div>
+              <TabelaPedidos pedidos={pedidos} exibirAcao={false} alturaMaxima="max-h-[380px]" />
+            </div>
           </div>
-        </div>
+        )}
       </main>
     </div>
   );

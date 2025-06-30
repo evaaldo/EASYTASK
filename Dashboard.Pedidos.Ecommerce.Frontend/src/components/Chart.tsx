@@ -3,7 +3,7 @@ import { PieChart, Pie, Cell, Tooltip } from 'recharts'
 import { pedidosService } from '../services/pedidosService'
 import type { ChartType } from './interfaces/ChartType'
 
-export default function Chart() {
+export default function Chart({ width }: { width: number }) {
   const [data, setData] = useState<{ name: string, value: number }[]>([])
 
   const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042', '#A28EFF', '#FF6680', '#66FFB3', '#FFA07A', '#B0C4DE', '#90EE90']
@@ -22,7 +22,7 @@ export default function Chart() {
   }, [])
 
   return (
-    <PieChart width={400} height={300}>
+    <PieChart width={width} height={300}>
       <Pie
         data={data}
         cx="50%"
