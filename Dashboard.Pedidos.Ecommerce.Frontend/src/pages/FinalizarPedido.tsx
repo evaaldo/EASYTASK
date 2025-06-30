@@ -38,8 +38,8 @@ export function FinalizarPedido() {
       <Header />
       <div className="flex flex-1 overflow-hidden">
         <Sidebar />
-        <main className="flex-1 overflow-auto p-4 sm:p-6 md:p-10">
-          <TabelaPedidos pedidos={pedidos} exibirAcao alturaMaxima="max-h-[70vh]" />
+        <main className="flex-1">
+          <TabelaPedidos pedidos={pedidos} exibirAcao alturaMaxima="max-h-[60vh]" />
         </main>
       </div>
     </div>

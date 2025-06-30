@@ -18,10 +18,10 @@ export function TabelaPedidos({
   }
 
   return (
-    <div className="max-w-6xl mx-auto rounded">
+    <div className="max-w-5xl 2xl:max-w-7xl mx-auto rounded">
       <div className="rounded-lg shadow-md border border-gray-200">
         <table className="w-full table-auto bg-white">
-          <thead className="bg-[#5C5CDA] text-white sticky top-0 z-10">
+          <thead className="bg-[#5C5CDA] text-white sticky top-0">
             <tr>
               <th className="px-3 py-3 text-left text-sm font-semibold uppercase rounded-tl">ÍNDICE</th>
               <th className="px-6 py-3 text-left text-sm font-semibold uppercase">Cliente</th>

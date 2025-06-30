@@ -8,7 +8,7 @@ export function CriarPedido() {
       <Header />
       <div className="flex flex-1 overflow-hidden">
         <Sidebar />
-        <main className="flex-1 p-4 sm:p-6 md:p-10 overflow-auto">
+        <main className="flex-1 ">
           <Formulario />
         </main>
       </div>
