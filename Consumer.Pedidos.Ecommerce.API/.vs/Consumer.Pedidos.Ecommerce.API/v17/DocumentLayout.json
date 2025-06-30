@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consumer.pedidos.ecommerce.api\\consumer.pedidos.ecommerce.api\\services\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|solutionrelative:consumer.pedidos.ecommerce.api\\services\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consumer.pedidos.ecommerce.api\\consumer.pedidos.ecommerce.api\\repositories\\pedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|solutionrelative:consumer.pedidos.ecommerce.api\\repositories\\pedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consumer.pedidos.ecommerce.api\\consumer.pedidos.ecommerce.api\\repositories\\interfaces\\ipedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|solutionrelative:consumer.pedidos.ecommerce.api\\repositories\\interfaces\\ipedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consumer.pedidos.ecommerce.api\\consumer.pedidos.ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|solutionrelative:consumer.pedidos.ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "Consumer.Pedidos.Ecommerce.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Program.cs",
+              "RelativeToolTip": "Consumer.Pedidos.Ecommerce.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:24:42.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Repositories\\PedidosRepository.cs",
+              "RelativeDocumentMoniker": "Consumer.Pedidos.Ecommerce.API\\Repositories\\PedidosRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Repositories\\PedidosRepository.cs",
+              "RelativeToolTip": "Consumer.Pedidos.Ecommerce.API\\Repositories\\PedidosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:24:01.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPedidosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Repositories\\Interfaces\\IPedidosRepository.cs",
+              "RelativeDocumentMoniker": "Consumer.Pedidos.Ecommerce.API\\Repositories\\Interfaces\\IPedidosRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Repositories\\Interfaces\\IPedidosRepository.cs",
+              "RelativeToolTip": "Consumer.Pedidos.Ecommerce.API\\Repositories\\Interfaces\\IPedidosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:23:17.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMqConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Services\\RabbitMqConsumerService.cs",
+              "RelativeDocumentMoniker": "Consumer.Pedidos.Ecommerce.API\\Services\\RabbitMqConsumerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Services\\RabbitMqConsumerService.cs",
+              "RelativeToolTip": "Consumer.Pedidos.Ecommerce.API\\Services\\RabbitMqConsumerService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T12:54:23.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

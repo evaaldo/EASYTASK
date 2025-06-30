@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consumer.pedidos.ecommerce.api\\consumer.pedidos.ecommerce.api\\services\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|solutionrelative:consumer.pedidos.ecommerce.api\\services\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consumer.pedidos.ecommerce.api\\consumer.pedidos.ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|solutionrelative:consumer.pedidos.ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consumer.pedidos.ecommerce.api\\consumer.pedidos.ecommerce.api\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|solutionrelative:consumer.pedidos.ecommerce.api\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consumer.pedidos.ecommerce.api\\consumer.pedidos.ecommerce.api\\consumer.pedidos.ecommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|solutionrelative:consumer.pedidos.ecommerce.api\\consumer.pedidos.ecommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consumer.pedidos.ecommerce.api\\consumer.pedidos.ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|solutionrelative:consumer.pedidos.ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consumer.pedidos.ecommerce.api\\consumer.pedidos.ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B047B71-957E-4D16-932A-39804363B015}|Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj|solutionrelative:consumer.pedidos.ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consumer.Pedidos.Ecommerce.API",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj",
+              "RelativeDocumentMoniker": "Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj",
+              "RelativeToolTip": "Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T13:34:29.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Consumer.Pedidos.Ecommerce.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\appsettings.json",
+              "RelativeToolTip": "Consumer.Pedidos.Ecommerce.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T12:51:39.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMqConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Services\\RabbitMqConsumerService.cs",
+              "RelativeDocumentMoniker": "Consumer.Pedidos.Ecommerce.API\\Services\\RabbitMqConsumerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Services\\RabbitMqConsumerService.cs",
+              "RelativeToolTip": "Consumer.Pedidos.Ecommerce.API\\Services\\RabbitMqConsumerService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T12:54:23.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Consumer.Pedidos.Ecommerce.API\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Models\\Pedido.cs",
+              "RelativeToolTip": "Consumer.Pedidos.Ecommerce.API\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T12:51:47.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "Consumer.Pedidos.Ecommerce.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Program.cs",
+              "RelativeToolTip": "Consumer.Pedidos.Ecommerce.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T12:51:20.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Consumer.Pedidos.Ecommerce.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consumer.Pedidos.Ecommerce.API\\Consumer.Pedidos.Ecommerce.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Consumer.Pedidos.Ecommerce.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T12:51:07.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

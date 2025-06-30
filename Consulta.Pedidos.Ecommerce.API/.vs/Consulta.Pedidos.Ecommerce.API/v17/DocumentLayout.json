@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consulta.pedidos.ecommerce.api\\consulta.pedidos.ecommerce.api\\repositories\\pedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|solutionrelative:consulta.pedidos.ecommerce.api\\repositories\\pedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consulta.pedidos.ecommerce.api\\consulta.pedidos.ecommerce.api\\models\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|solutionrelative:consulta.pedidos.ecommerce.api\\models\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consulta.pedidos.ecommerce.api\\consulta.pedidos.ecommerce.api\\repositories\\interfaces\\ipedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|solutionrelative:consulta.pedidos.ecommerce.api\\repositories\\interfaces\\ipedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consulta.pedidos.ecommerce.api\\consulta.pedidos.ecommerce.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|solutionrelative:consulta.pedidos.ecommerce.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consulta.pedidos.ecommerce.api\\consulta.pedidos.ecommerce.api\\models\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|solutionrelative:consulta.pedidos.ecommerce.api\\models\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consulta.pedidos.ecommerce.api\\consulta.pedidos.ecommerce.api\\models\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|solutionrelative:consulta.pedidos.ecommerce.api\\models\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consulta.pedidos.ecommerce.api\\consulta.pedidos.ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|solutionrelative:consulta.pedidos.ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consulta.pedidos.ecommerce.api\\consulta.pedidos.ecommerce.api\\models\\quantidadepedidosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|solutionrelative:consulta.pedidos.ecommerce.api\\models\\quantidadepedidosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consulta.pedidos.ecommerce.api\\consulta.pedidos.ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|solutionrelative:consulta.pedidos.ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|c:\\users\\user\\desktop\\[3c] processamento de pedidos\\consulta.pedidos.ecommerce.api\\consulta.pedidos.ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E67595C-E804-41EE-941E-49A55C80DB5B}|Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API.csproj|solutionrelative:consulta.pedidos.ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Models\\ProdutoDto.cs",
+              "RelativeDocumentMoniker": "Consulta.Pedidos.Ecommerce.API\\Models\\ProdutoDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Models\\ProdutoDto.cs",
+              "RelativeToolTip": "Consulta.Pedidos.Ecommerce.API\\Models\\ProdutoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:14:28.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Models\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "Consulta.Pedidos.Ecommerce.API\\Models\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Models\\ClienteDto.cs",
+              "RelativeToolTip": "Consulta.Pedidos.Ecommerce.API\\Models\\ClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:59:06.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuantidadePedidosDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Models\\QuantidadePedidosDto.cs",
+              "RelativeDocumentMoniker": "Consulta.Pedidos.Ecommerce.API\\Models\\QuantidadePedidosDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Models\\QuantidadePedidosDto.cs",
+              "RelativeToolTip": "Consulta.Pedidos.Ecommerce.API\\Models\\QuantidadePedidosDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:05:35.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Models\\PedidoDto.cs",
+              "RelativeDocumentMoniker": "Consulta.Pedidos.Ecommerce.API\\Models\\PedidoDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Models\\PedidoDto.cs",
+              "RelativeToolTip": "Consulta.Pedidos.Ecommerce.API\\Models\\PedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:46:29.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Consulta.Pedidos.Ecommerce.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\appsettings.json",
+              "RelativeToolTip": "Consulta.Pedidos.Ecommerce.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T14:45:59.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Consulta.Pedidos.Ecommerce.API\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Consulta.Pedidos.Ecommerce.API\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswHkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:28:05.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "Consulta.Pedidos.Ecommerce.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Program.cs",
+              "RelativeToolTip": "Consulta.Pedidos.Ecommerce.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:23:10.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Repositories\\PedidosRepository.cs",
+              "RelativeDocumentMoniker": "Consulta.Pedidos.Ecommerce.API\\Repositories\\PedidosRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Repositories\\PedidosRepository.cs",
+              "RelativeToolTip": "Consulta.Pedidos.Ecommerce.API\\Repositories\\PedidosRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswFcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:42:32.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPedidosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Repositories\\Interfaces\\IPedidosRepository.cs",
+              "RelativeDocumentMoniker": "Consulta.Pedidos.Ecommerce.API\\Repositories\\Interfaces\\IPedidosRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Repositories\\Interfaces\\IPedidosRepository.cs",
+              "RelativeToolTip": "Consulta.Pedidos.Ecommerce.API\\Repositories\\Interfaces\\IPedidosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:29:29.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Consulta.Pedidos.Ecommerce.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\[3C] Processamento de Pedidos\\Consulta.Pedidos.Ecommerce.API\\Consulta.Pedidos.Ecommerce.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Consulta.Pedidos.Ecommerce.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T14:22:56.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
