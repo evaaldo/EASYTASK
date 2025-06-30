@@ -1,0 +1,61 @@
+services:
+  db:
+    image: postgres:15
+    container_name: db_pedidos_ecommerce
+    restart: always
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=230520
+      - POSTGRES_DB=PedidosEcommerce
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq_pedidos_ecommerce
+    ports:
+      - "15672:15672"
+      - "5672:5672"
+    volumes:
+      - rabbitmqdata:/var/lib/rabbitmq
+  consumer:
+    build:
+      context: ./Consumer.Pedidos.Ecommerce.API
+      dockerfile: Dockerfile
+    container_name: consumer_pedidos_ecommerce
+    ports:
+      - "7005:7005"
+    depends_on:
+      - rabbitmq
+    environment:
+      - ASPNETCORE_HTTP_PORTS=7005
+  producer:
+    build:
+      context: ./Producer.Pedidos.Ecommerce.API
+      dockerfile: Dockerfile
+    container_name: producer_pedidos_ecommerce
+    restart: always
+    ports:
+      - "7152:7152"
+    depends_on:
+      - rabbitmq
+    environment:
+      - ASPNETCORE_HTTP_PORTS=7152
+  consulta:
+    build:
+      context: ./Consulta.Pedidos.Ecommerce.API
+      dockerfile: Dockerfile
+    container_name: consulta_pedidos_ecommerce
+    restart: always
+    ports:
+      - "7049:7049"
+    depends_on:
+      - db
+    environment:
+      - ASPNETCORE_HTTP_PORTS=7049
+
+volumes:
+  pgdata:
+  rabbitmqdata:
