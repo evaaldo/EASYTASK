@@ -49,5 +49,12 @@ docker-compose down -v
 
 ![image](https://github.com/user-attachments/assets/5f1d81cb-b39a-465a-81fa-790bbfe11f6b)
 
+#### RabbitMQ
+
 ![image](https://github.com/user-attachments/assets/7ce82df7-67e8-43d1-85cd-25c9db5f3323)
 
+#### Fluxogramas do Processo
+
+![image](https://github.com/user-attachments/assets/68801ca6-945c-4973-9b86-c00e236d71c3)
+
+![image](https://github.com/user-attachments/assets/98c1e275-da10-4f50-b1d0-083a3ee13ab1)
